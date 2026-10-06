@@ -1,0 +1,17 @@
+[
+  {
+    "Author": "Christopher",
+    "Name": "AetherTweaks",
+    "InternalName": "AetherTweaks",
+    "AssemblyVersion": "0.8.4.0",
+    "Description": "AetherTweaks is a direct Dalamud plugin featuring Overview, Settings, Modules, Tweaks, and About views. The project implements configuration persistence, dynamic character information, module and tweak state management, and extensible configuration surfaces.",
+    "Punchline": "A modular in-game Dalamud UI for quality-of-life tweaks.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "RepoUrl": "https://github.com/Pequito/AetherTweaks-Dalamud",
+    "DownloadLinkInstall": "https://github.com/Pequito/AetherTweaks-Dalamud/releases/download/v0.8.4/AetherTweaks.zip",
+    "DownloadLinkUpdate": "https://github.com/Pequito/AetherTweaks-Dalamud/releases/download/v0.8.4/AetherTweaks.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false
+  }
+]
